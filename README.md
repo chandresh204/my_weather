@@ -2,6 +2,5 @@
 
 A weather application , created using flutter
 
-## Getting Started
 
-# my_weather
+![](https://github.com/chandresh204/my_weather/blob/main/my_weather.gif)
